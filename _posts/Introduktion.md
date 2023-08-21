@@ -1,3 +1,9 @@
+---
+title: "Introduktion - Mike Aakesson"
+date: 2023-08-21
+description: "Lær mig bedre at kende"
+---
+
 # Velkommen til min hjemmeside!
 
 Hej allesammen! Jeg er Mike Aakesson, og jeg vil gerne dele lidt om mig selv og mine interesser.
