@@ -4,7 +4,7 @@ date: 2023-08-21
 description: "En diskussion om overvejelserne bag valget af programmeringssprog til vores seneste projekt."
 ---
 
-# Valg af Sprog til Projektet: Java vs. Kotlin vs. Swift
+# Valg af Sprog til Projektet: Java vs Kotlin vs Swift
 
 Hej alle sammen! I dette indlæg vil jeg gerne dele vores tanker og overvejelser bag valget af programmeringssprog til vores seneste projekt. Vi har diskuteret mulighederne og valgt at udforske Java og Kotlin, mens vi bevidst valgte ikke at bruge Swift. Her er vores tanker:
 
