@@ -1,6 +1,6 @@
 ---
 title: "Introduktion - Mike Aakesson"
-date: 2023-08-21
+date: 2023-08-21 10:00
 description: "Lær mig bedre at kende"
 ---
 
