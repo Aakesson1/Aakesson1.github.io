@@ -9,3 +9,5 @@ Hej, mit navn er Mike Aakesson. Jeg er en Datamatiker studerende. Her er nogle a
 - **Uddannelse:** Datamatiker UCL
 - **Projekter:** APP
 - ...
+
+![Alt text](../assets/lib/images/markus-spiske-MgtHZ4zlC1U-unsplash.jpg)
