@@ -72,8 +72,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: C:\Users\Mike\Desktop\Datamatiker\Aakesson1.github.io\assets\lib\images\markus-spiske-MgtHZ4zlC1U-unsplash.jpg
-
+avatar: assets/lib/images/markus-spiske-MgtHZ4zlC1U-unsplash.jpg
 # boolean type, the global switch for TOC in posts.
 toc: true
 
