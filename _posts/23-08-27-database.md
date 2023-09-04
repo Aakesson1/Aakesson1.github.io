@@ -47,6 +47,10 @@ tags: [nolek,database,datamatiker,softwareudvikling]
 - **Beskrivelse:**
   - Graph-databaser bruger grafstrukturer til at repræsentere data med noder, egenskaber og relationer. Dette gør dem velegnede til at håndtere komplekse relationer.
 
+<div style="text-align: center">
+  <img src="/assets/images/GraphDB.jpg" alt="Something went wrong loading the image." width="200" height="400"/>
+</div>
+
 ### Wide Column Database
 
 - **Eksempler:**
