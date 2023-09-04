@@ -1,7 +1,8 @@
 ﻿---
-title: "Læringsmål"
-date: 2023-08-26 12:00:00 +0300
-categories: [app,database,projekt,læringsmål]
+title: Læringsmål
+date: 26.08.2023 12:00
+categories: [Generelt]
+tags: [database,appudvikling,datamatiker,softwareudvikling,læringsmål]
 ---
 ## Appudvikling
 
