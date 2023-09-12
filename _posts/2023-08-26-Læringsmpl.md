@@ -2,7 +2,7 @@
 title: Læringsmål
 date: 26.08.2023 12:00
 categories: [Generelt]
-tags: [database,appudvikling,datamatiker,softwareudvikling,læringsmål]
+tags: [læringsmål]
 ---
 ## Appudvikling
 

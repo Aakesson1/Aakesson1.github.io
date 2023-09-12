@@ -2,7 +2,7 @@
 title: Database
 date: 26.08.2023 10:00
 categories: [Generelt]
-tags: [nolek,database,datamatiker,softwareudvikling]
+tags: [database]
 ---
 ## Relational Database
 
