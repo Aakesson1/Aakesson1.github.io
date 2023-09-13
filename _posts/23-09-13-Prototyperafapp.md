@@ -2,7 +2,7 @@
 title: Prototype af App
 date: 13.09.2023 20:00
 categories: [Projekt]
-tags: [nolek,projekt,appudvikling]
+tags: [nolek,projekt,appudvikling,prototype]
 ---
 ## Overvejelser omkring IDE
 
