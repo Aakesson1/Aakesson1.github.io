@@ -11,7 +11,7 @@ Det betød jeg havde mere plads, hvilket gjorde jeg kunne opsætte et mere bredt
 Jeg kunne derudover sætter flere funktioner ind.
 
 <div style="text-align: left">
-  <img src="/assets/images/NyPrototypetilNolek.png" alt="Something went wrong loading the image." width="200" height="400"/>
+  <img src="/assets/images/Appimages/NyPrototypetilNolek.png" alt="Something went wrong loading the image." width="200" height="400"/>
 </div>
 
 ### Nye funktioner 

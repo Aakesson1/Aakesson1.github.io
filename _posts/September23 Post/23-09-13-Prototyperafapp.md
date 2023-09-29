@@ -19,13 +19,13 @@ Jeg har så lavet en prototype/skitse af hvordan det kan se ud. Det er i meget t
 
 
 <div style="text-align: left">
-  <img src="/assets/images/Prototype.png" alt="Something went wrong loading the image." width="200" height="400"/>
+  <img src="/assets/images/Appimages/Prototype.png" alt="Something went wrong loading the image." width="200" height="400"/>
 </div>
 
 - Her kan man se nogen af funktionerne.
 
 <div style="text-align: left">
-  <img src="/assets/images/Prototype med funktioner.png" alt="Something went wrong loading the image." width="200" height="400"/>
+  <img src="/assets/images/Appimages/Prototype med funktioner.png" alt="Something went wrong loading the image." width="200" height="400"/>
 </div>
 
 Det er kun nogen switches med nogen knapper indtil videre.
@@ -33,5 +33,5 @@ Det er kun nogen switches med nogen knapper indtil videre.
 Nedenfor ses koden til knapperne.
 
 <div style="text-align: left">
-  <img src="/assets/images/Kode til knap funktioner.png" alt="Something went wrong loading the image." width="200" height="400"/>
+  <img src="/assets/images/Appimages/Kode til knap funktioner.png" alt="Something went wrong loading the image." width="200" height="400"/>
 </div>
