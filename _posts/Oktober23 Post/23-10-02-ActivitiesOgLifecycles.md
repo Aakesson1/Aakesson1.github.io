@@ -1,5 +1,5 @@
 ﻿---
-title: Overvejelser om app sprog
+title: Activities & Lifecycles
 date: 02.10.2023 12:00
 categories: [Appudvikling]
 tags: [appudvikling]
