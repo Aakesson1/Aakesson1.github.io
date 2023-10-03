@@ -15,5 +15,5 @@ Hej, mit navn er Mike Aakesson. Jeg er en Datamatiker studerende. Her er nogle a
 - Lager og købsapp for Tintin og co.
 
 <div style="text-align: left">
-  <img src="/assets/images/Avatar/avatar.PNG" alt="Something went wrong loading the image." width="200" height="400"/>
+  <img src="/assets/images/avatar.PNG" alt="Something went wrong loading the image." width="200" height="400"/>
 </div>

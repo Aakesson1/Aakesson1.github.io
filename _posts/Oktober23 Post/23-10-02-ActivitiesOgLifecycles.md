@@ -36,5 +36,5 @@ Der er også to andre tilstande, onRestart() og onSaveInstanceState(), som kan v
 Android-systemet kan ødelægge og genoprette activities på grund af ting som skærmrotation eller lavt hukommelsesforbrug. 
 
 <div style="text-align: left">
-  <img src="/assets/images/Appudvikling/activity_lifecycle.png" alt="Something went wrong loading the image." width="200" height="400"/>
+  <img src="/assets/images/activity_lifecycle.png" alt="Something went wrong loading the image." width="200" height="400"/>
 </div>
