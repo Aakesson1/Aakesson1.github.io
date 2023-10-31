@@ -1,6 +1,6 @@
 ﻿---
 title: Room Database i App
-date: 27.10.2023 12:00
+date: 27.10.2023 14:00
 categories: [Appudvikling]
 tags: [nolek,projekt,appudvikling,prototype]
 ---
