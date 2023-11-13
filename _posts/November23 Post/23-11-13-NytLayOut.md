@@ -50,3 +50,4 @@ Jeg har smidt lidt test data ind bare så man kan se hvordan det ser ud.
 <div style="text-align: left">
   <img src="/assets/images/GetMetode.png" alt="Something went wrong loading the image." width="200" height="400"/>
 </div>
+
