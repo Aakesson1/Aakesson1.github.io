@@ -11,6 +11,7 @@ tags: [litteraturliste]
 ### Android Development
 - Official Android Documentation: [Android Developers](https://developer.android.com/)
 - Phillipp Lackner: [YouTube Channel](https://www.youtube.com/c/PhilippLackner)
+- LinkedIn Learning Course on Basic Android Development: [Android Studio Essential Training](https://www.linkedin.com/learning-login/share?account=57075649&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fandroid-studio-essential-training-14266841%3Ftrk%3Dshare_ent_url%26shareId%3D4qq4lIbxS3SojEtQwjl8gQ%253D%253D)
 
 ### Camera API
 - Camera2 API Tutorial af Programming Hut: [YouTube Video](https://www.youtube.com/watch?v=S-7H72UTiBU&ab_channel=ProgrammingHut)
