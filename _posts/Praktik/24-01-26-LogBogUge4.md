@@ -1,6 +1,6 @@
 ---
 title: Logbog Uge 4
-date: 05.01.2024 12:00
+date: 26.01.2024 12:00
 categories: [Praktik]
 tags: [praktik]
 ---
