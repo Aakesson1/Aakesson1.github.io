@@ -47,11 +47,11 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3
+          ruby-version: 3.0.0
           bundler-cache: false
 
       - name: Install System Dependencies
-        run: sudo apt-get update && sudo apt-get install -y build-essential ruby-dev
+        run: sudo apt-get install -y autoconf bison build-essential libssl-dev libyaml-dev libreadline6-dev zlib1g-dev libncurses5-dev libffi-dev libgdbm6 libgdbm-dev libdb-dev
 
       - name: Install Ruby Dependencies
         run: |
