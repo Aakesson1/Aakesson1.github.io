@@ -11,3 +11,7 @@ Jeg brugte denne uge på at teste de nye funktionaliteter som firmaet ønskede, 
 Jeg har dog stadig nogen små fejl som skal ændres, og som jeg håber på at blive færdig med i næste uge, 
 salgschefen vil meget gerne have en ny apk op på deres hjemmeside som folk kan prøve med, de
 ændringer som jeg har lavet, og jeg vil derfor have det klar til næste fredag.
+
+Jeg fik i denne uge tilgået deres projektstyrings redskab hvor de bruger jira til at opstille kanban boards,
+og fik udelt en ny opgave herigennem.
+
