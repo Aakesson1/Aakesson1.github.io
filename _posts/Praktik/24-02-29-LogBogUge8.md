@@ -1,6 +1,6 @@
 ﻿---
 title: Logbog Uge 8
-date: 19.02.2024 12:00
+date: 26.02.2024 12:00
 categories: [Praktik]
 tags: [praktik]
 ---
